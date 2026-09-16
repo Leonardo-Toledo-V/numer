@@ -1,0 +1,22 @@
+[
+  {
+    "file": "wordmark/numer-wordmark-porcelain.svg",
+    "geometry_unchanged": true,
+    "only_ink_changed": true
+  },
+  {
+    "file": "wordmark/numer-wordmark-graphite.svg",
+    "geometry_unchanged": true,
+    "only_ink_changed": true
+  },
+  {
+    "file": "symbol/numer-symbol-porcelain.svg",
+    "geometry_unchanged": true,
+    "only_ink_changed": true
+  },
+  {
+    "file": "symbol/numer-symbol-graphite.svg",
+    "geometry_unchanged": true,
+    "only_ink_changed": true
+  }
+]

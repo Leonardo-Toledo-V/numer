@@ -1,0 +1,124 @@
+{
+  "task": "T-UX-001",
+  "date": "2026-09-16",
+  "scope": "Documentary UX review and isolated sidebar comparison; no application implementation",
+  "environment": {
+    "python": "3.14.3",
+    "node": "v24.13.1"
+  },
+  "links": {
+    "checked": 52,
+    "broken": []
+  },
+  "ids": {
+    "UX-F": {
+      "expected": 13,
+      "missing": []
+    },
+    "UX-E": {
+      "expected": 10,
+      "missing": []
+    },
+    "UX-O": {
+      "expected": 8,
+      "missing": []
+    },
+    "UX-P": {
+      "expected": 12,
+      "missing": []
+    },
+    "UX-Q": {
+      "expected": 7,
+      "missing": []
+    },
+    "UX-AC-": {
+      "expected": 5,
+      "missing": []
+    }
+  },
+  "sidebar_contrast": [
+    {
+      "name": "active_light",
+      "foreground": "#164E4A",
+      "background": "#E1E8E7",
+      "ratio": 7.6
+    },
+    {
+      "name": "active_dark",
+      "foreground": "#164E4A",
+      "background": "#D1E6E0",
+      "ratio": 7.25
+    },
+    {
+      "name": "normal_light",
+      "foreground": "#C4DCD8",
+      "background": "#164E4A",
+      "ratio": 6.56
+    },
+    {
+      "name": "normal_dark",
+      "foreground": "#C4DCD8",
+      "background": "#153C39",
+      "ratio": 8.39
+    },
+    {
+      "name": "focus_light",
+      "foreground": "#F5F6F7",
+      "background": "#164E4A",
+      "ratio": 8.73
+    },
+    {
+      "name": "focus_dark",
+      "foreground": "#F5F6F7",
+      "background": "#153C39",
+      "ratio": 11.17
+    }
+  ],
+  "assets": [
+    {
+      "file": "docs/08-brand/deliverables/numer-brand-kit-v1.0/icon/numer-icon.svg",
+      "sha256": "2379a33be91c1b8e834694dbc621dc257082ad6a25ac87f5dc2bf08f11010470",
+      "embedded_unchanged": true
+    },
+    {
+      "file": "docs/08-brand/deliverables/numer-brand-kit-v1.0/wordmark/numer-wordmark-porcelain.svg",
+      "sha256": "a68c8b6e5c966502eee4956de978c9514bedef3e850196bf2ee3c52f0eac2fff",
+      "embedded_unchanged": true
+    },
+    {
+      "file": "docs/08-brand/assets/typography/Manrope-Regular.ttf",
+      "sha256": "a13d9b41b0a471ce58f0e46d377fa3cc76615e4632c3b15eb397caadf7a13f0a",
+      "embedded_unchanged": true
+    },
+    {
+      "file": "docs/08-brand/assets/typography/Manrope-Medium.ttf",
+      "sha256": "f433e5d333be1128d8ec8a28b8aadd0314d10e14e4105406076666bc830fc15d",
+      "embedded_unchanged": true
+    }
+  ],
+  "visualization": {
+    "bytes": 271731,
+    "javascript_syntax": "pass",
+    "placeholders": "none",
+    "browser_check": "not_executed: local server blocked by filesystem sandbox socket permissions; local file preview rejected by browser URL policy; no workaround attempted",
+    "host_Tweak": "guarded; not tested in host"
+  },
+  "visual_inspection": {
+    "existing_captures": 10,
+    "method": "view_image; summary desktop/mobile light/dark, movements desktop/mobile light/dark, mobile form, capture review",
+    "new_comparison": "source review only; not visually verified in browser"
+  },
+  "limitations": [
+    "No frontend or Sites edits",
+    "No full accessibility, keyboard, screen reader or responsive behavior test of the new comparison",
+    "No financial engine, persistence, auth or RLS tests",
+    "Historical brand browser checks not rerun"
+  ],
+  "criteria": {
+    "UX-AC-01": "documented",
+    "UX-AC-02": "documented",
+    "UX-AC-03": "documented",
+    "UX-AC-04": "specified; visual comparison browser validation pending",
+    "UX-AC-05": "approved assets embedded byte-for-byte; no implementation"
+  }
+}

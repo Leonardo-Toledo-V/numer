@@ -1,0 +1,51 @@
+{
+  "browser": "153.0.8010.36",
+  "desktop": {
+    "width": 1024,
+    "overflow": false,
+    "height": 1218.09375,
+    "icons": 4
+  },
+  "mobile": {
+    "width": 360,
+    "overflow": false,
+    "height": 1378.6875,
+    "icons": 4
+  },
+  "narrow": {
+    "width": 320,
+    "overflow": false,
+    "height": 1512.1875,
+    "icons": 4
+  },
+  "dark": "rgb(18, 24, 25)",
+  "transferCount": 1,
+  "transferDetail": "Detalle del movimiento\nCerrar\n\nFondo de emergencia\n\n$2,000.00\nTipo\nTransferencia\nFecha\n12 de septiembre de 2026\nCuenta\nCuenta diaria\nDestino\nAhorro\nCategoría\nEntre tus cuentas\n\nMueve dinero entre tus cuentas. No cambia el saldo total ni cuenta como gasto.",
+  "empty": "Sin devoluciones en este periodo\n\nPrueba con otro tipo de movimiento.",
+  "hidden": true,
+  "detailHidden": "••••••",
+  "nav": [
+    {
+      "id": "overview",
+      "title": "Resumen"
+    },
+    {
+      "id": "accounts",
+      "title": "Cuentas"
+    },
+    {
+      "id": "savings",
+      "title": "Ahorro"
+    },
+    {
+      "id": "movements",
+      "title": "Movimientos"
+    }
+  ],
+  "formError": "Elige una cuenta de destino distinta del origen.",
+  "preview": "Transferencia · Prueba de ahorro · $250.50 MXN · 2026-09-13 · Cuenta diaria → Ahorro",
+  "preserved": "Prueba de ahorro",
+  "unchanged": 10,
+  "dialogFit": true,
+  "errors": []
+}

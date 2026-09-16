@@ -1,0 +1,63 @@
+# Credentials and private local configuration
+.env
+.env.*
+!.env.example
+!.env.sample
+!.env.template
+*.pem
+*.key
+*.p12
+*.pfx
+credentials.json
+service-account*.json
+secrets/
+.secrets/
+
+# Dependencies, builds and local deployment state
+node_modules/
+.next/
+out/
+dist/
+build/
+coverage/
+.vercel/
+.supabase/
+.openai/
+.turbo/
+.cache/
+__pycache__/
+*.py[cod]
+*.tsbuildinfo
+*.log
+
+# OS and editor files
+.DS_Store
+._*
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Local agent state; keep the shared role definitions
+/.codex/*
+!/.codex/agents/
+/.codex/agents/*
+!/.codex/agents/*.toml
+/BRANDING_AGENT.md
+
+# Generated archives: their unpacked resources remain versioned
+/docs/**/*.zip
+
+# Local published-site copy with its own Git and hosting metadata
+/docs/08-brand/sites/
+
+# Local backups and real financial exports
+*.bak
+*.backup
+*.sqlite
+*.sqlite3
+*.db
+/private/
+/backups/

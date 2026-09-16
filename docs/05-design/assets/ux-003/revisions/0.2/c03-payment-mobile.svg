@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="390" height="760" viewBox="0 0 390 760" role="img" aria-labelledby="title desc"><title id="title">C03 · Registro de pago / adaptación móvil</title><desc id="desc">Propuesta estática de composición Numer. Datos sintéticos. Sin implementación ni acciones funcionales.</desc><style>text{font-family:Manrope,sans-serif;font-variant-numeric:tabular-nums}</style>
+<rect x="0" y="0" width="390" height="760" rx="0" fill="#F5F6F7"/>
+<rect x="0" y="0" width="390" height="760" rx="0" fill="#FFFFFF"/>
+<text x="20" y="43" font-size="19" font-weight="600" fill="#222629" text-anchor="start">Registrar pago</text>
+<g transform="translate(350 26)">
+<path d="M5 5l10 10 M15 5 5 15" fill="none" stroke="#566265" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<text x="20" y="71" font-size="13" font-weight="400" fill="#566265" text-anchor="start">Banco A · Compras</text>
+<path d="M20 94h350" fill="none" stroke="#E1E8E7" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="20" y="130" font-size="12" font-weight="500" fill="#222629" text-anchor="start">Cuenta de origen</text>
+<rect x="20" y="139" width="350" height="44" rx="6" fill="#FFFFFF" stroke="#85918F"/>
+<text x="32" y="166.0" font-size="16" font-weight="400" fill="#222629" text-anchor="start">Cuenta diaria · Banco A</text>
+<g transform="translate(342 151.0)">
+<path d="M6 8l4 4 4-4" fill="none" stroke="#566265" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<text x="20" y="220" font-size="12" font-weight="500" fill="#222629" text-anchor="start">Importe · MXN</text>
+<rect x="20" y="229" width="350" height="44" rx="6" fill="#FFFFFF" stroke="#85918F"/>
+<text x="32" y="256.0" font-size="16" font-weight="400" fill="#222629" text-anchor="start">1,500.00</text>
+<text x="20" y="310" font-size="12" font-weight="500" fill="#222629" text-anchor="start">Fecha del pago</text>
+<rect x="20" y="319" width="350" height="44" rx="6" fill="#FFFFFF" stroke="#85918F"/>
+<text x="32" y="346.0" font-size="16" font-weight="400" fill="#222629" text-anchor="start">16/09/2026</text>
+<text x="20" y="400" font-size="12" font-weight="500" fill="#222629" text-anchor="start">Concepto</text>
+<rect x="20" y="409" width="350" height="44" rx="6" fill="#FFFFFF" stroke="#85918F"/>
+<text x="32" y="436.0" font-size="16" font-weight="400" fill="#222629" text-anchor="start">Pago de tarjeta</text>
+<text x="20" y="492" font-size="12" font-weight="400" fill="#566265" text-anchor="start">Registrar este dato no envía dinero al banco.</text>
+<path d="M20 521h350" fill="none" stroke="#E1E8E7" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="20" y="546" width="106" height="44" rx="6" fill="#FFFFFF" stroke="#85918F"/>
+<text x="73.0" y="573.0" font-size="13" font-weight="500" fill="#222629" text-anchor="middle">Cancelar</text>
+<rect x="138" y="546" width="232" height="44" rx="6" fill="#185B56"/>
+<text x="254.0" y="573.0" font-size="13" font-weight="500" fill="#FFFFFF" text-anchor="middle">Revisar pago</text>
+<text x="20" y="722" font-size="10" font-weight="400" fill="#566265" text-anchor="start">C03 · Propuesta · Móvil conserva blancos táctiles.</text>
+</svg>

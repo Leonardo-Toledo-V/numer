@@ -1,0 +1,16 @@
+{
+  "browser": "153.0.8010.36",
+  "desktop": {
+    "font": true,
+    "width": 748,
+    "overflow": false,
+    "images": true
+  },
+  "mobile": {
+    "font": true,
+    "width": 328,
+    "overflow": false,
+    "images": true
+  },
+  "errors": []
+}

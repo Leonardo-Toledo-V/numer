@@ -1,0 +1,121 @@
+{
+  "task": "T-UX-003",
+  "date": "2026-09-16",
+  "contract": "UX-DC01 v0.1",
+  "state": "design proposal awaiting user review",
+  "links": {
+    "checked": 38,
+    "broken": []
+  },
+  "assets": [
+    {
+      "file": "c01-accounts.svg",
+      "width": 1280,
+      "height": 800,
+      "text_count": 47,
+      "png_exists": true,
+      "text_bounds_pass": true,
+      "wordmark_matches_master": true,
+      "sha256": "077394c24a4ca7f2511f39d4e060f96761e18e73ad0f10395612ec41ee7e8d62"
+    },
+    {
+      "file": "c02-payment-dialog.svg",
+      "width": 1280,
+      "height": 800,
+      "text_count": 60,
+      "png_exists": true,
+      "text_bounds_pass": true,
+      "wordmark_matches_master": true,
+      "sha256": "db05795487ab1df8aa9aae9776eefe2e48bc89cf6a7c184cc60d2c2c3de3d72d"
+    },
+    {
+      "file": "c03-payment-mobile.svg",
+      "width": 390,
+      "height": 760,
+      "text_count": 14,
+      "png_exists": true,
+      "text_bounds_pass": true,
+      "wordmark_matches_master": "not used in mobile form",
+      "sha256": "ceb67b58f3f2ef37270d1b34755dba2fc619914d5e049336683690fc460698e0"
+    }
+  ],
+  "contrast": [
+    {
+      "name": "body",
+      "ratio": 15.25,
+      "threshold": 4.5,
+      "pass": true
+    },
+    {
+      "name": "muted",
+      "ratio": 6.31,
+      "threshold": 4.5,
+      "pass": true
+    },
+    {
+      "name": "muted on background",
+      "ratio": 5.83,
+      "threshold": 4.5,
+      "pass": true
+    },
+    {
+      "name": "primary",
+      "ratio": 7.87,
+      "threshold": 4.5,
+      "pass": true
+    },
+    {
+      "name": "link",
+      "ratio": 7.87,
+      "threshold": 4.5,
+      "pass": true
+    },
+    {
+      "name": "field border",
+      "ratio": 3.26,
+      "threshold": 3,
+      "pass": true
+    },
+    {
+      "name": "sidebar normal",
+      "ratio": 6.56,
+      "threshold": 4.5,
+      "pass": true
+    },
+    {
+      "name": "sidebar selected",
+      "ratio": 7.6,
+      "threshold": 4.5,
+      "pass": true
+    }
+  ],
+  "visual_inspection": {
+    "method": "Sharp SVG-to-PNG; view_image desktop accounts, desktop dialog, mobile form and updated overview",
+    "frames": 3,
+    "corrections": [
+      "Dialog field spacing refined",
+      "Metadata increased from 11 to 12 px for readability"
+    ]
+  },
+  "role_limits": {
+    "frontend_modified": false,
+    "figma_used": false,
+    "application_initialized": false,
+    "modification_scope": "docs/05-design only"
+  },
+  "limitations": [
+    "Static design only; no interactions tested",
+    "No user acceptance or usability results",
+    "No real keyboard, assistive technology, reflow or mobile keyboard tests",
+    "No financial rules implemented",
+    "Global tokens remain proposed"
+  ],
+  "criteria": {
+    "UX3-AC01": "documented or artifact inspected; acceptance not implied",
+    "UX3-AC02": "documented or artifact inspected; acceptance not implied",
+    "UX3-AC03": "documented or artifact inspected; acceptance not implied",
+    "UX3-AC04": "documented or artifact inspected; acceptance not implied",
+    "UX3-AC05": "documented or artifact inspected; acceptance not implied",
+    "UX3-AC06": "documented or artifact inspected; acceptance not implied"
+  }
+}

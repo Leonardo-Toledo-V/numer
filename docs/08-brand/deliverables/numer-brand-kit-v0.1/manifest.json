@@ -1,0 +1,39 @@
+{
+  "symbol/numer-symbol-petroleum.svg": {
+    "source": "assets/n-monogram/numer-n-symbol.svg",
+    "sha256": "a72900ffc9cfb7570e044ce385e37a8ee23ee94ef6d2988affbf66e8dfb121ac"
+  },
+  "icon/numer-icon.svg": {
+    "source": "assets/n-monogram/numer-n-icon.svg",
+    "sha256": "2379a33be91c1b8e834694dbc621dc257082ad6a25ac87f5dc2bf08f11010470"
+  },
+  "favicon/favicon.ico": {
+    "source": "assets/n-monogram/favicon.ico",
+    "sha256": "ffb0b3c8b0893b12304e24c5db21a090e3f3ffee82d4b3c5bb4c71314254f448"
+  },
+  "icon/numer-icon-16.png": {
+    "source": "assets/n-monogram/numer-n-16.png",
+    "sha256": "b0cb3bc98c65101fa62087a99ce0f3ffef50b9053faad85beb7b31be63e28dfe"
+  },
+  "icon/numer-icon-32.png": {
+    "source": "assets/n-monogram/numer-n-32.png",
+    "sha256": "14f5ed7d6759c23cfef762a7066b565a2f2c19c83f0cc192a22cdf90734bbedd"
+  },
+  "icon/numer-icon-48.png": {
+    "source": "assets/n-monogram/numer-n-48.png",
+    "sha256": "cda1d516944717de8d047462c21902d23516e8c1f9b16fac6da377e562f897c7"
+  },
+  "icon/numer-icon-64.png": {
+    "source": "assets/n-monogram/numer-n-64.png",
+    "sha256": "6879a78257b12e30d1a6750c7372434248c593ae0f6e6bbec27d719c93aa7fec"
+  },
+  "icon/numer-icon-256.png": {
+    "source": "assets/n-monogram/numer-n-256.png",
+    "sha256": "33a8898b5e1a76224f9b1aaf55998aa27e96164bcc0cc1f102b2cdd522f68f91"
+  },
+  "wordmark/numer-wordmark-petroleum.svg": {
+    "source": "assets/logo-refinement/numer-b1-soft-wordmark.svg",
+    "adaptation": "Same geometry; petroleum as displayed in the approved presentation. Metadata updated.",
+    "sha256": "e871a3442efc60f741b839429860588336ad96c786b6292d10034815b45a7257"
+  }
+}

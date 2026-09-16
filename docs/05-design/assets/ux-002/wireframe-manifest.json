@@ -1,0 +1,72 @@
+[
+  {
+    "file": "w01-access.svg",
+    "title": "W01 · Acceso e inicio guiado",
+    "width": 1100,
+    "height": 760,
+    "text_items": 13
+  },
+  {
+    "file": "w02-accounts.svg",
+    "title": "W02 · Cuentas y tarjetas",
+    "width": 1100,
+    "height": 800,
+    "text_items": 30
+  },
+  {
+    "file": "w03-card.svg",
+    "title": "W03 · Detalle de tarjeta",
+    "width": 1100,
+    "height": 870,
+    "text_items": 30
+  },
+  {
+    "file": "w04-payment.svg",
+    "title": "W04 · Registrar pago",
+    "width": 1100,
+    "height": 820,
+    "text_items": 27
+  },
+  {
+    "file": "w05-review.svg",
+    "title": "W05 · Revisión de pago",
+    "width": 1100,
+    "height": 800,
+    "text_items": 24
+  },
+  {
+    "file": "w06-movements.svg",
+    "title": "W06 · Historial con ámbito explícito",
+    "width": 1100,
+    "height": 800,
+    "text_items": 25
+  },
+  {
+    "file": "w07-mobile-card.svg",
+    "title": "W07 · Tarjeta en móvil",
+    "width": 390,
+    "height": 920,
+    "text_items": 21
+  },
+  {
+    "file": "w08-mobile-uncertain.svg",
+    "title": "W08 · Registro incierto en móvil",
+    "width": 390,
+    "height": 880,
+    "text_items": 12
+  },
+  {
+    "file": "w09-add-account.svg",
+    "title": "W09 · Añadir primera cuenta",
+    "width": 1100,
+    "height": 850,
+    "text_items": 29
+  },
+  {
+    "file": "w10-add-card.svg",
+    "title": "W10 · Añadir tarjeta",
+    "width": 1100,
+    "height": 860,
+    "text_items": 27
+  }
+]

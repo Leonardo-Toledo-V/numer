@@ -1,0 +1,123 @@
+{
+  "$schemaNote": "Design reference only; not a frontend configuration or approved complete theme",
+  "version": "0.3",
+  "date": "2026-09-16",
+  "brand": {
+    "status": "approved BR-A07/A08",
+    "font": "Manrope",
+    "petroleum": "#185B56",
+    "porcelain": "#F5F6F7",
+    "graphite": "#222629",
+    "mist": "#E1E8E7"
+  },
+  "sidebarDesktop": {
+    "status": "approved UX-A01",
+    "selectionHeight": 38,
+    "selectionRadius": 8,
+    "minimumHitHeight": 44,
+    "unit": "CSS px at reference text size"
+  },
+  "sidebarMobile": {
+    "status": "proposed",
+    "selectionHeight": 48,
+    "selectionRadius": 8,
+    "minimumHitHeight": 52
+  },
+  "typography": {
+    "status": "proposed",
+    "body": [
+      16,
+      24
+    ],
+    "compact": [
+      14,
+      20
+    ],
+    "meta": [
+      12,
+      18
+    ],
+    "title": [
+      28,
+      34
+    ],
+    "section": [
+      18,
+      26
+    ],
+    "displayMoney": [
+      36,
+      44
+    ],
+    "sidebar": [
+      13,
+      20
+    ]
+  },
+  "spacing": {
+    "status": "proposed",
+    "scale": [
+      4,
+      8,
+      12,
+      16,
+      24,
+      32,
+      48
+    ]
+  },
+  "radius": {
+    "status": "proposed except sidebar selection",
+    "control": 8,
+    "panel": [
+      16,
+      20
+    ],
+    "sidebarOuter": 24
+  },
+  "themes": {
+    "status": "proposed",
+    "light": {
+      "background": "#F5F6F7",
+      "surface": "#FFFFFF",
+      "text": "#222629",
+      "muted": "#566265",
+      "accent": "#185B56",
+      "onAccent": "#FFFFFF",
+      "soft": "#E1E8E7",
+      "fieldBorder": "#697A7C",
+      "errorText": "#B42318",
+      "errorSurface": "#FFF1EF",
+      "warningText": "#805600",
+      "warningSurface": "#FFF2CF"
+    },
+    "dark": {
+      "background": "#121819",
+      "surface": "#1D2628",
+      "text": "#F2F5F4",
+      "muted": "#ABB9BA",
+      "accent": "#9ED4CA",
+      "onAccent": "#153C39",
+      "soft": "#293F3C",
+      "fieldBorder": "#829395",
+      "errorText": "#FFDAD6",
+      "errorSurface": "#402523",
+      "warningText": "#F8D98A",
+      "warningSurface": "#3A311E"
+    }
+  },
+  "motion": {
+    "status": "proposed",
+    "navigationMs": 0,
+    "keyboardMs": 0,
+    "panelEnterMs": [
+      160,
+      220
+    ],
+    "panelExitMs": [
+      120,
+      160
+    ],
+    "reduced": "static or short opacity feedback; no numeric interpolation"
+  }
+}

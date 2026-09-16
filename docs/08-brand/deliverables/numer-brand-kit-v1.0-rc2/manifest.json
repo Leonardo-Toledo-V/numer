@@ -1,0 +1,160 @@
+{
+  "edition": "1.0-rc2",
+  "files": [
+    {
+      "path": "README.md",
+      "bytes": 1785,
+      "sha256": "c425726b2160ce40e2e4223408331d7a04b264f1f0ff0f942a918fdae61e877d"
+    },
+    {
+      "path": "favicon/favicon.ico",
+      "bytes": 2038,
+      "sha256": "ffb0b3c8b0893b12304e24c5db21a090e3f3ffee82d4b3c5bb4c71314254f448"
+    },
+    {
+      "path": "guide/brand-manual.md",
+      "bytes": 5541,
+      "sha256": "928d46d8e2f70428ccc5d18ec586f1dcc58798999f4f218275cb2f130dfbc677"
+    },
+    {
+      "path": "guide/context.md",
+      "bytes": 6920,
+      "sha256": "71f17782e74b7d68e9835ebeb82acd8396de52244fc8fd8a576aaf4a709f946e"
+    },
+    {
+      "path": "guide/handoff.md",
+      "bytes": 1735,
+      "sha256": "a4a2e27bc2f1a28161e13c880d8f0e744919c647e0b6260fdd2c9ba14e8aa52b"
+    },
+    {
+      "path": "guide/numer-brand-manual-v1.0-rc2.pdf",
+      "bytes": 91379,
+      "sha256": "a57ac2b2ee3c8429a953f82d96742cd309eb3a97195be5949df628f662917c99"
+    },
+    {
+      "path": "guide/voice.md",
+      "bytes": 10176,
+      "sha256": "65341b1679f2a5fe14ab3df38dc7576c134c156556779558e488981852614e05"
+    },
+    {
+      "path": "icon/numer-icon-16.png",
+      "bytes": 388,
+      "sha256": "b0cb3bc98c65101fa62087a99ce0f3ffef50b9053faad85beb7b31be63e28dfe"
+    },
+    {
+      "path": "icon/numer-icon-256.png",
+      "bytes": 5897,
+      "sha256": "33a8898b5e1a76224f9b1aaf55998aa27e96164bcc0cc1f102b2cdd522f68f91"
+    },
+    {
+      "path": "icon/numer-icon-32.png",
+      "bytes": 658,
+      "sha256": "14f5ed7d6759c23cfef762a7066b565a2f2c19c83f0cc192a22cdf90734bbedd"
+    },
+    {
+      "path": "icon/numer-icon-48.png",
+      "bytes": 938,
+      "sha256": "cda1d516944717de8d047462c21902d23516e8c1f9b16fac6da377e562f897c7"
+    },
+    {
+      "path": "icon/numer-icon-64.png",
+      "bytes": 1169,
+      "sha256": "6879a78257b12e30d1a6750c7372434248c593ae0f6e6bbec27d719c93aa7fec"
+    },
+    {
+      "path": "icon/numer-icon.svg",
+      "bytes": 469,
+      "sha256": "2379a33be91c1b8e834694dbc621dc257082ad6a25ac87f5dc2bf08f11010470"
+    },
+    {
+      "path": "numer-wordmark-preview.png",
+      "bytes": 4893,
+      "sha256": "e46d1d25eede554eea24848c5ca1300942fef6e85fbd953c2a4b72c3a2f22b18"
+    },
+    {
+      "path": "symbol/numer-symbol-graphite.png",
+      "bytes": 3189,
+      "sha256": "d14201f5d847de14775d08ab2253eb5581da197ba27c734346e0d161f8d5e7d7"
+    },
+    {
+      "path": "symbol/numer-symbol-graphite.svg",
+      "bytes": 414,
+      "sha256": "317489c4005ce9159f73a3245a8a4c7641f3e61e3f6347bd0e84e808b48c6087"
+    },
+    {
+      "path": "symbol/numer-symbol-petroleum.png",
+      "bytes": 3149,
+      "sha256": "fe9b6d4cae2a66b1185b9f00898dcc0bd55492b91d9d99673e296978ae5ae1f1"
+    },
+    {
+      "path": "symbol/numer-symbol-petroleum.svg",
+      "bytes": 414,
+      "sha256": "a72900ffc9cfb7570e044ce385e37a8ee23ee94ef6d2988affbf66e8dfb121ac"
+    },
+    {
+      "path": "symbol/numer-symbol-porcelain.png",
+      "bytes": 3202,
+      "sha256": "58c3cff0c3e850287a646da3d213f1396c5c9f437e33115f7b05b8a4475639d6"
+    },
+    {
+      "path": "symbol/numer-symbol-porcelain.svg",
+      "bytes": 414,
+      "sha256": "8ea8cd7dcef68be10f547e2ec139e033c28f72246617bad13cca7ba9ba7a3328"
+    },
+    {
+      "path": "typography/Manrope-Medium.ttf",
+      "bytes": 95060,
+      "sha256": "f433e5d333be1128d8ec8a28b8aadd0314d10e14e4105406076666bc830fc15d"
+    },
+    {
+      "path": "typography/Manrope-OFL.txt",
+      "bytes": 4384,
+      "sha256": "e01b637272e0cbdfb240184dd98ea5cc671556d9894dae2668d92ab2c906787c"
+    },
+    {
+      "path": "typography/Manrope-Regular.ttf",
+      "bytes": 94972,
+      "sha256": "a13d9b41b0a471ce58f0e46d377fa3cc76615e4632c3b15eb397caadf7a13f0a"
+    },
+    {
+      "path": "typography/Manrope-Semibold.ttf",
+      "bytes": 95096,
+      "sha256": "6bad1a774228464cc88b8b0271555b266f7a3c64a7bedf15e165fdab4f6ac0ce"
+    },
+    {
+      "path": "verification.json",
+      "bytes": 2660,
+      "sha256": "187a3ae957b0314abd0da1238e00f6615b549e663e9faea379578a7d7ab32fe7"
+    },
+    {
+      "path": "wordmark/numer-wordmark-graphite.png",
+      "bytes": 8812,
+      "sha256": "7e616034518df6ff22d2262f08143701fb50e1d22549ca7e2995acb751c6cb11"
+    },
+    {
+      "path": "wordmark/numer-wordmark-graphite.svg",
+      "bytes": 3365,
+      "sha256": "94833058845f3d8c9321ecf14c8508e171c2fbe576b4dc4908f94abd1c1f31ca"
+    },
+    {
+      "path": "wordmark/numer-wordmark-petroleum.png",
+      "bytes": 8722,
+      "sha256": "73395a44ffcdaa7408fa7867021508d0ae6ffdea4da96274af20619a3d71b26a"
+    },
+    {
+      "path": "wordmark/numer-wordmark-petroleum.svg",
+      "bytes": 3365,
+      "sha256": "4e70f8fd3ad4397fc8e13187ab0328d5e337c6c6c7fa2e15f53f9ad9a76844e9"
+    },
+    {
+      "path": "wordmark/numer-wordmark-porcelain.png",
+      "bytes": 8789,
+      "sha256": "3cc064a7d59003bb7306cedbdcd31f14b149cedb6a05d62aebf473aa14629f37"
+    },
+    {
+      "path": "wordmark/numer-wordmark-porcelain.svg",
+      "bytes": 3365,
+      "sha256": "0ba4e986286c80ced2655748264448e92b46cdb85e471cb7cce5b8affa5e8c1e"
+    }
+  ]
+}

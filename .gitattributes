@@ -1,0 +1,8 @@
+# Preserve binary assets and avoid text diffs or line-ending transformations.
+*.png binary
+*.ico binary
+*.pdf binary
+*.ttf binary
+*.woff binary
+*.woff2 binary
+*.zip binary

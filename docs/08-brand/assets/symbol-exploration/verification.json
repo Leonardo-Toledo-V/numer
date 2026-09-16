@@ -1,0 +1,18 @@
+{
+  "browser": "153.0.8010.36",
+  "desktop": {
+    "font": true,
+    "width": 748,
+    "overflow": false
+  },
+  "mobile": {
+    "font": true,
+    "width": 328,
+    "overflow": false
+  },
+  "interaction": {
+    "changed": true,
+    "label": "Símbolos propuestos · Grafito"
+  },
+  "errors": []
+}

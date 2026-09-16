@@ -1,0 +1,132 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="800" viewBox="0 0 1280 800" role="img" aria-labelledby="title desc"><title id="title">C02 · Registro de pago / diálogo compacto</title><desc id="desc">Propuesta estática de composición Numer. Datos sintéticos. Sin implementación ni acciones funcionales.</desc><style>text{font-family:Manrope,sans-serif;font-variant-numeric:tabular-nums}</style>
+<rect x="0" y="0" width="1280" height="800" rx="0" fill="#FFFFFF"/>
+<rect x="0" y="0" width="176" height="800" rx="0" fill="#164E4A"/>
+<image href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgOSAzMTMgNzAiIHJvbGU9ImltZyIgYXJpYS1sYWJlbD0ibnVtZXIg4oCUIE1hbnJvcGUgU2VtaWJvbGQsIGNvcnRlIHN1dGlsOyBhcHJvYmFkbyBCUi1BMDMiPjx0aXRsZT5udW1lciDigJQgTWFucm9wZSBTZW1pYm9sZCwgY29ydGUgc3V0aWw7IGFwcm9iYWRvIEJSLUEwMzwvdGl0bGU+PGRlZnM+PG1hc2sgaWQ9ImN1dC1zb2Z0IiBtYXNrVW5pdHM9InVzZXJTcGFjZU9uVXNlIiB4PSIwIiB5PSIwIiB3aWR0aD0iMzIwIiBoZWlnaHQ9IjkwIj48cmVjdCB3aWR0aD0iMzIwIiBoZWlnaHQ9IjkwIiBmaWxsPSJ3aGl0ZSIvPjxwYXRoIGQ9Ik01IDQ5IEwxOSAzNSBMMTkgMzggTDUgNTJaIiBmaWxsPSJibGFjayIvPjwvbWFzaz48L2RlZnM+PGcgZmlsbD0iI0Y1RjZGNyI+PHBhdGggZD0iTTU1LjUwMCA3Mkw0NC45MDAgNzJMNDQuOTAwIDQ1LjQ1MFE0NC45MDAgNDIuMzAwIDQ0LjM3NSAzOC45NzVRNDMuODUwIDM1LjY1MCA0Mi4zNzUgMzIuODAwUTQwLjkwMCAyOS45NTAgMzguMjI1IDI4LjIwMFEzNS41NTAgMjYuNDUwIDMxLjI1MCAyNi40NTBMMzEuMjUwIDI2LjQ1MFEyOC40NTAgMjYuNDUwIDI1Ljk1MCAyNy4zNzVRMjMuNDUwIDI4LjMwMCAyMS41NzUgMzAuMzUwUTE5LjcwMCAzMi40MDAgMTguNjI1IDM1Ljc1MFExNy41NTAgMzkuMTAwIDE3LjU1MCA0My45MDBMMTcuNTUwIDQzLjkwMEwxMS4wNTAgNDEuNDUwUTExLjA1MCAzNC4xMDAgMTMuODAwIDI4LjQ3NVExNi41NTAgMjIuODUwIDIxLjcwMCAxOS43MDBRMjYuODUwIDE2LjU1MCAzNC4xNTAgMTYuNTUwTDM0LjE1MCAxNi41NTBRMzkuNzUwIDE2LjU1MCA0My41NTAgMTguMzUwUTQ3LjM1MCAyMC4xNTAgNDkuNzI1IDIzLjA3NVE1Mi4xMDAgMjYgNTMuMzUwIDI5LjQ1MFE1NC42MDAgMzIuOTAwIDU1LjA1MCAzNi4yMDBRNTUuNTAwIDM5LjUwMCA1NS41MDAgNDJMNTUuNTAwIDQyTDU1LjUwMCA3MlpNMTcuNTUwIDcyTDYuOTUwIDcyTDYuOTUwIDE4TDE2LjMwMCAxOEwxNi4zMDAgMzMuNjAwTDE3LjU1MCAzMy42MDBMMTcuNTUwIDcyWiBNODYuMzUwIDczLjQ1MEw4Ni4zNTAgNzMuNDUwUTgwLjc1MCA3My40NTAgNzYuOTUwIDcxLjY1MFE3My4xNTAgNjkuODUwIDcwLjc3NSA2Ni45MjVRNjguNDAwIDY0IDY3LjE1MCA2MC41NTBRNjUuOTAwIDU3LjEwMCA2NS40NTAgNTMuODAwUTY1IDUwLjUwMCA2NSA0OEw2NSA0OEw2NSAxOEw3NS42MDAgMThMNzUuNjAwIDQ0LjU1MFE3NS42MDAgNDcuNzAwIDc2LjEyNSA1MS4wMjVRNzYuNjUwIDU0LjM1MCA3OC4xMjUgNTcuMjAwUTc5LjYwMCA2MC4wNTAgODIuMjc1IDYxLjgwMFE4NC45NTAgNjMuNTUwIDg5LjI1MCA2My41NTBMODkuMjUwIDYzLjU1MFE5Mi4wNTAgNjMuNTUwIDk0LjU1MCA2Mi42MjVROTcuMDUwIDYxLjcwMCA5OC45MjUgNTkuNjUwUTEwMC44MDAgNTcuNjAwIDEwMS44NzUgNTQuMjUwUTEwMi45NTAgNTAuOTAwIDEwMi45NTAgNDYuMTAwTDEwMi45NTAgNDYuMTAwTDEwOS40NTAgNDguNTUwUTEwOS40NTAgNTUuOTAwIDEwNi43MDAgNjEuNTI1UTEwMy45NTAgNjcuMTUwIDk4LjgwMCA3MC4zMDBROTMuNjUwIDczLjQ1MCA4Ni4zNTAgNzMuNDUwWk0xMTMuNTAwIDcyTDEwNC4yMDAgNzJMMTA0LjIwMCA1Ni40MDBMMTAyLjk1MCA1Ni40MDBMMTAyLjk1MCAxOEwxMTMuNTAwIDE4TDExMy41MDAgNzJaIE0yMDAuMTUwIDcyTDE4OS43MDAgNzJMMTg5Ljc1MCAzOC4zNTBRMTg5Ljc1MCAzMi41MDAgMTg2Ljc1MCAyOS4yMjVRMTgzLjc1MCAyNS45NTAgMTc4Ljg1MCAyNS45NTBMMTc4Ljg1MCAyNS45NTBRMTc1Ljg1MCAyNS45NTAgMTczLjM3NSAyNy4zMjVRMTcwLjkwMCAyOC43MDAgMTY5LjM3NSAzMS40MjVRMTY3Ljg1MCAzNC4xNTAgMTY3Ljg1MCAzOC4yNTBMMTY3Ljg1MCAzOC4yNTBMMTYyLjgwMCAzNS43MDBRMTYyLjcwMCAzMCAxNjUuMjI1IDI1LjcwMFExNjcuNzUwIDIxLjQwMCAxNzIuMTAwIDE5LjAyNVExNzYuNDUwIDE2LjY1MCAxODEuODUwIDE2LjY1MEwxODEuODUwIDE2LjY1MFExOTAuNjAwIDE2LjY1MCAxOTUuNDAwIDIxLjkwMFEyMDAuMjAwIDI3LjE1MCAyMDAuMjAwIDM1Ljg1MEwyMDAuMjAwIDM1Ljg1MEwyMDAuMTUwIDcyWk0xMzUuNDUwIDcyTDEyNC45NTAgNzJMMTI0Ljk1MCAxOEwxMzQuMjUwIDE4TDEzNC4yNTAgMzMuNjAwTDEzNS40NTAgMzMuNjAwTDEzNS40NTAgNzJaTTE2Ny44MDAgNzJMMTU3LjM1MCA3MkwxNTcuNDAwIDM4LjU1MFExNTcuNDAwIDMyLjY1MCAxNTQuNDI1IDI5LjMwMFExNTEuNDUwIDI1Ljk1MCAxNDYuNDUwIDI1Ljk1MEwxNDYuNDUwIDI1Ljk1MFExNDEuNTAwIDI1Ljk1MCAxMzguNDc1IDI5LjM1MFExMzUuNDUwIDMyLjc1MCAxMzUuNDUwIDM4LjI1MEwxMzUuNDUwIDM4LjI1MEwxMzAuNDUwIDM1LjA1MFExMzAuNDUwIDI5Ljc1MCAxMzMgMjUuNjAwUTEzNS41NTAgMjEuNDUwIDEzOS45MDAgMTkuMDUwUTE0NC4yNTAgMTYuNjUwIDE0OS43NTAgMTYuNjUwTDE0OS43NTAgMTYuNjUwUTE1NS41MDAgMTYuNjUwIDE1OS41NTAgMTkuMDc1UTE2My42MDAgMjEuNTAwIDE2NS43MjUgMjUuODUwUTE2Ny44NTAgMzAuMjAwIDE2Ny44NTAgMzUuOTUwTDE2Ny44NTAgMzUuOTUwTDE2Ny44MDAgNzJaIE0yMzQgNzMuNTAwTDIzNCA3My41MDBRMjI1Ljk1MCA3My41MDAgMjE5Ljg3NSA2OS45NzVRMjEzLjgwMCA2Ni40NTAgMjEwLjQyNSA2MC4xMjVRMjA3LjA1MCA1My44MDAgMjA3LjA1MCA0NS40NTBMMjA3LjA1MCA0NS40NTBRMjA3LjA1MCAzNi42MDAgMjEwLjM3NSAzMC4xMDBRMjEzLjcwMCAyMy42MDAgMjE5LjY1MCAyMC4wNTBRMjI1LjYwMCAxNi41MDAgMjMzLjUwMCAxNi41MDBMMjMzLjUwMCAxNi41MDBRMjQxLjc1MCAxNi41MDAgMjQ3LjU1MCAyMC4zMjVRMjUzLjM1MCAyNC4xNTAgMjU2LjIyNSAzMS4yMDBRMjU5LjEwMCAzOC4yNTAgMjU4LjUwMCA0Ny45NTBMMjU4LjUwMCA0Ny45NTBMMjQ4LjA1MCA0Ny45NTBMMjQ4LjA1MCA0NC4xNTBRMjQ3Ljk1MCAzNC43NTAgMjQ0LjQ3NSAzMC4yNTBRMjQxIDI1Ljc1MCAyMzMuOTAwIDI1Ljc1MEwyMzMuOTAwIDI1Ljc1MFEyMjYuMDUwIDI1Ljc1MCAyMjIuMTAwIDMwLjcwMFEyMTguMTUwIDM1LjY1MCAyMTguMTUwIDQ1TDIxOC4xNTAgNDVRMjE4LjE1MCA1My45MDAgMjIyLjEwMCA1OC43NzVRMjI2LjA1MCA2My42NTAgMjMzLjUwMCA2My42NTBMMjMzLjUwMCA2My42NTBRMjM4LjQwMCA2My42NTAgMjQxLjk3NSA2MS40MjVRMjQ1LjU1MCA1OS4yMDAgMjQ3LjU1MCA1NS4wNTBMMjQ3LjU1MCA1NS4wNTBMMjU3LjgwMCA1OC4zMDBRMjU0LjY1MCA2NS41NTAgMjQ4LjI1MCA2OS41MjVRMjQxLjg1MCA3My41MDAgMjM0IDczLjUwMFpNMjUzLjMwMCA0Ny45NTBMMjE0Ljc1MCA0Ny45NTBMMjE0Ljc1MCAzOS44MDBMMjUzLjMwMCAzOS44MDBMMjUzLjMwMCA0Ny45NTBaIE0yNzcuNzUwIDcyTDI2Ny4yMDAgNzJMMjY3LjIwMCAxOEwyNzYuNTAwIDE4TDI3Ni41MDAgMzEuMTAwTDI3NS4yMDAgMjkuNDAwUTI3Ni4yMDAgMjYuODAwIDI3Ny44MDAgMjQuNjI1UTI3OS40MDAgMjIuNDUwIDI4MS41MDAgMjEuMDUwTDI4MS41MDAgMjEuMDUwUTI4My41NTAgMTkuNTUwIDI4Ni4wNzUgMTguNzI1UTI4OC42MDAgMTcuOTAwIDI5MS4yNTAgMTcuNzI1UTI5My45MDAgMTcuNTUwIDI5Ni4zNTAgMThMMjk2LjM1MCAxOEwyOTYuMzUwIDI3LjgwMFEyOTMuNzAwIDI3LjEwMCAyOTAuNDc1IDI3LjQwMFEyODcuMjUwIDI3LjcwMCAyODQuNTUwIDI5LjQ1MEwyODQuNTUwIDI5LjQ1MFEyODIgMzEuMTAwIDI4MC41MjUgMzMuNDUwUTI3OS4wNTAgMzUuODAwIDI3OC40MDAgMzguNjc1UTI3Ny43NTAgNDEuNTUwIDI3Ny43NTAgNDQuNzUwTDI3Ny43NTAgNDQuNzUwTDI3Ny43NTAgNzJaICIgbWFzaz0idXJsKCNjdXQtc29mdCkiLz48L2c+PC9zdmc+Cg==" x="24" y="38" width="100" height="22.364217252396166"/>
+<text x="24" y="126" font-size="10" font-weight="500" fill="#C4DCD8" text-anchor="start">TU ESPACIO</text>
+<g transform="translate(24 158)">
+<path d="M2 2h6v6H2z M12 2h6v6h-6z M2 12h6v6H2z M12 12h6v6h-6z" fill="none" stroke="#C4DCD8" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<text x="56" y="173" font-size="12" font-weight="400" fill="#C4DCD8" text-anchor="start">Resumen</text>
+<g transform="translate(24 204)">
+<path d="M3 5h14 M3 10h14 M3 15h14" fill="none" stroke="#C4DCD8" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<text x="56" y="219" font-size="12" font-weight="400" fill="#C4DCD8" text-anchor="start">Movimientos</text>
+<rect x="12" y="241" width="152" height="38" rx="8" fill="#E1E8E7"/>
+<g transform="translate(24 250)">
+<path d="M3 4h13v13H3z M12 8h6v6h-6z" fill="none" stroke="#164E4A" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<text x="56" y="265" font-size="12" font-weight="500" fill="#164E4A" text-anchor="start">Cuentas</text>
+<g transform="translate(24 296)">
+<path d="M4 17V9h4v8 M10 17V5h4v12 M16 17V2h2v15" fill="none" stroke="#C4DCD8" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<text x="56" y="311" font-size="12" font-weight="400" fill="#C4DCD8" text-anchor="start">Ahorro</text>
+<path d="M16 720h144" fill="none" stroke="#41716C" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="12" y="732" width="152" height="56" rx="6" fill="#205B56"/>
+<rect x="24" y="744" width="32" height="32" rx="16" fill="#E1E8E7"/>
+<text x="40" y="765" font-size="12" font-weight="500" fill="#164E4A" text-anchor="middle">A</text>
+<text x="64" y="754" font-size="12" font-weight="500" fill="#F5F6F7" text-anchor="start">Alex</text>
+<text x="64" y="773" font-size="12" font-weight="400" fill="#C4DCD8" text-anchor="start">Mi cuenta</text>
+<path d="M144 760l4-4 4 4" fill="none" stroke="#C4DCD8" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="208" y="46" font-size="12" font-weight="400" fill="#566265" text-anchor="start">Tu espacio</text>
+<text x="277" y="46" font-size="12" font-weight="400" fill="#566265" text-anchor="start">/</text>
+<text x="292" y="46" font-size="12" font-weight="400" fill="#222629" text-anchor="start">Cuentas</text>
+<text x="1244" y="46" font-size="12" font-weight="400" fill="#566265" text-anchor="end">MXN · Saldos registrados</text>
+<text x="208" y="105" font-size="18" font-weight="500" fill="#222629" text-anchor="start">Cuentas y tarjetas</text>
+<text x="208" y="131" font-size="12" font-weight="400" fill="#566265" text-anchor="start">Tu dinero y tu crédito, en su lugar.</text>
+<rect x="1120" y="88" width="124" height="34" rx="6" fill="#185B56"/>
+<text x="1182.0" y="110.0" font-size="12" font-weight="500" fill="#FFFFFF" text-anchor="middle">Añadir</text>
+<path d="M208 155h1036" fill="none" stroke="#E1E8E7" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="208" y="195" font-size="13" font-weight="500" fill="#222629" text-anchor="start">Tu dinero</text>
+<text x="280" y="195" font-size="12" font-weight="400" fill="#566265" text-anchor="start">2 cuentas</text>
+<text x="1244" y="195" font-size="12" font-weight="400" fill="#566265" text-anchor="end">El ahorro está incluido en estas cuentas.</text>
+<rect x="208" y="215" width="1036" height="168" rx="10" fill="#FFFFFF" stroke="#E1E8E7"/>
+<text x="276" y="239" font-size="12" font-weight="500" fill="#566265" text-anchor="start">Cuenta</text>
+<text x="730" y="239" font-size="12" font-weight="500" fill="#566265" text-anchor="start">Fecha de referencia</text>
+<text x="1114" y="239" font-size="12" font-weight="500" fill="#566265" text-anchor="end">Saldo registrado</text>
+<path d="M208 252h1036" fill="none" stroke="#E1E8E7" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="232" y="268" width="32" height="32" rx="7" fill="#F5F6F7"/>
+<g transform="translate(238 274)">
+<path d="M3 4h13v13H3z M12 8h6v6h-6z" fill="none" stroke="#185B56" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<text x="276" y="282" font-size="13" font-weight="500" fill="#222629" text-anchor="start">Cuenta diaria</text>
+<text x="276" y="301" font-size="12" font-weight="400" fill="#566265" text-anchor="start">Banco A · Dinero en banco</text>
+<text x="730" y="282" font-size="12" font-weight="400" fill="#566265" text-anchor="start">16 sep 2026</text>
+<text x="1114" y="282" font-size="13" font-weight="500" fill="#222629" text-anchor="end">$8,000.00</text>
+<g transform="translate(1194 270)">
+<path d="M8 5l5 5-5 5" fill="none" stroke="#566265" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<path d="M232 317h988" fill="none" stroke="#E1E8E7" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="232" y="333" width="32" height="32" rx="7" fill="#F5F6F7"/>
+<g transform="translate(238 339)">
+<path d="M4 17V9h4v8 M10 17V5h4v12 M16 17V2h2v15" fill="none" stroke="#185B56" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<text x="276" y="347" font-size="13" font-weight="500" fill="#222629" text-anchor="start">Ahorro</text>
+<text x="276" y="366" font-size="12" font-weight="400" fill="#566265" text-anchor="start">Banco A · Cuenta de ahorro</text>
+<text x="730" y="347" font-size="12" font-weight="400" fill="#566265" text-anchor="start">16 sep 2026</text>
+<text x="1114" y="347" font-size="13" font-weight="500" fill="#222629" text-anchor="end">$2,000.00</text>
+<g transform="translate(1194 335)">
+<path d="M8 5l5 5-5 5" fill="none" stroke="#566265" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<text x="208" y="431" font-size="13" font-weight="500" fill="#222629" text-anchor="start">Tus tarjetas</text>
+<text x="294" y="431" font-size="12" font-weight="400" fill="#566265" text-anchor="start">2 tarjetas</text>
+<rect x="208" y="451" width="1036" height="180" rx="10" fill="#FFFFFF" stroke="#E1E8E7"/>
+<text x="276" y="477" font-size="12" font-weight="500" fill="#566265" text-anchor="start">Tarjeta</text>
+<text x="672" y="477" font-size="12" font-weight="500" fill="#566265" text-anchor="end">Deuda registrada</text>
+<text x="860" y="477" font-size="12" font-weight="500" fill="#566265" text-anchor="end">Crédito disponible</text>
+<path d="M208 491h1036" fill="none" stroke="#E1E8E7" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="232" y="510" width="32" height="32" rx="7" fill="#E1E8E7"/>
+<g transform="translate(238 516)">
+<path d="M2 4h16v12H2z M2 8h16 M5 13h4" fill="none" stroke="#185B56" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<text x="276" y="521" font-size="13" font-weight="500" fill="#222629" text-anchor="start">Compras</text>
+<text x="276" y="540" font-size="12" font-weight="400" fill="#566265" text-anchor="start">Banco A · Crédito</text>
+<text x="672" y="521" font-size="13" font-weight="500" fill="#222629" text-anchor="end">$6,000.00</text>
+<text x="860" y="521" font-size="13" font-weight="500" fill="#222629" text-anchor="end">$14,000.00</text>
+<text x="958" y="521" font-size="12" font-weight="500" fill="#185B56" text-anchor="start">Detalle</text>
+<rect x="1044" y="499" width="176" height="34" rx="6" fill="#FFFFFF" stroke="#85918F"/>
+<text x="1132.0" y="521.0" font-size="12" font-weight="500" fill="#222629" text-anchor="middle">Registrar pago</text>
+<path d="M232 561h988" fill="none" stroke="#E1E8E7" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="232" y="580" width="32" height="32" rx="7" fill="#E1E8E7"/>
+<g transform="translate(238 586)">
+<path d="M2 4h16v12H2z M2 8h16 M5 13h4" fill="none" stroke="#185B56" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<text x="276" y="591" font-size="13" font-weight="500" fill="#222629" text-anchor="start">Viajes</text>
+<text x="276" y="610" font-size="12" font-weight="400" fill="#566265" text-anchor="start">Banco A · Crédito</text>
+<text x="672" y="591" font-size="12" font-weight="400" fill="#566265" text-anchor="end">Sin registrar</text>
+<text x="860" y="591" font-size="12" font-weight="400" fill="#566265" text-anchor="end">Sin registrar</text>
+<text x="958" y="591" font-size="12" font-weight="500" fill="#185B56" text-anchor="start">Detalle</text>
+<rect x="1044" y="569" width="176" height="34" rx="6" fill="#FFFFFF" stroke="#85918F"/>
+<text x="1132.0" y="591.0" font-size="12" font-weight="500" fill="#222629" text-anchor="middle">Registrar pago</text>
+<text x="208" y="662" font-size="12" font-weight="400" fill="#566265" text-anchor="start">El crédito disponible no forma parte del dinero de tus cuentas.</text>
+<text x="208" y="760" font-size="10" font-weight="400" fill="#566265" text-anchor="start">C01 · Propuesta de diseño · Datos sintéticos · Sin implementación</text>
+<rect x="0" y="0" width="1280" height="800" rx="0" fill="#102725" opacity=".24"/>
+<rect x="410" y="189" width="460" height="434" rx="12" fill="#102725" opacity=".10"/>
+<rect x="410" y="183" width="460" height="434" rx="12" fill="#FFFFFF" stroke="#E1E8E7"/>
+<text x="434" y="220" font-size="17" font-weight="500" fill="#222629" text-anchor="start">Registrar pago</text>
+<g transform="translate(828 203)">
+<path d="M5 5l10 10 M15 5 5 15" fill="none" stroke="#566265" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<text x="434" y="247" font-size="12" font-weight="400" fill="#566265" text-anchor="start">Banco A · Compras</text>
+<path d="M434 269h412" fill="none" stroke="#E1E8E7" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="434" y="303" font-size="12" font-weight="500" fill="#222629" text-anchor="start">Cuenta de origen</text>
+<rect x="434" y="312" width="412" height="36" rx="6" fill="#FFFFFF" stroke="#85918F"/>
+<text x="446" y="335.0" font-size="13" font-weight="400" fill="#222629" text-anchor="start">Cuenta diaria · Banco A</text>
+<g transform="translate(818 320.0)">
+<path d="M6 8l4 4 4-4" fill="none" stroke="#566265" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<text x="434" y="372" font-size="12" font-weight="500" fill="#222629" text-anchor="start">Importe · MXN</text>
+<rect x="434" y="381" width="198" height="36" rx="6" fill="#FFFFFF" stroke="#85918F"/>
+<text x="446" y="404.0" font-size="13" font-weight="400" fill="#222629" text-anchor="start">1,500.00</text>
+<text x="648" y="372" font-size="12" font-weight="500" fill="#222629" text-anchor="start">Fecha del pago</text>
+<rect x="648" y="381" width="198" height="36" rx="6" fill="#FFFFFF" stroke="#85918F"/>
+<text x="660" y="404.0" font-size="13" font-weight="400" fill="#222629" text-anchor="start">16/09/2026</text>
+<text x="434" y="441" font-size="12" font-weight="500" fill="#222629" text-anchor="start">Concepto</text>
+<rect x="434" y="450" width="412" height="36" rx="6" fill="#FFFFFF" stroke="#85918F"/>
+<text x="446" y="473.0" font-size="13" font-weight="400" fill="#222629" text-anchor="start">Pago de tarjeta</text>
+<text x="434" y="509" font-size="12" font-weight="400" fill="#566265" text-anchor="start">Registrar este dato no envía dinero al banco.</text>
+<path d="M434 531h412" fill="none" stroke="#E1E8E7" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="603" y="557" width="92" height="36" rx="6" fill="#FFFFFF" stroke="#85918F"/>
+<text x="649.0" y="580.0" font-size="12" font-weight="500" fill="#222629" text-anchor="middle">Cancelar</text>
+<rect x="707" y="557" width="139" height="36" rx="6" fill="#185B56"/>
+<text x="776.5" y="580.0" font-size="12" font-weight="500" fill="#FFFFFF" text-anchor="middle">Revisar pago</text>
+</svg>

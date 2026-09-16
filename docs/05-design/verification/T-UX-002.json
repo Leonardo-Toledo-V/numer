@@ -1,0 +1,362 @@
+{
+  "task": "T-UX-002",
+  "date": "2026-09-16",
+  "python": "3.14.3",
+  "local_links": {
+    "checked": 113,
+    "broken": []
+  },
+  "ids": {
+    "UX-N": {
+      "expected": 15,
+      "missing": []
+    },
+    "UX-B": {
+      "expected": 8,
+      "missing": []
+    },
+    "UX-F": {
+      "expected": 13,
+      "missing": []
+    },
+    "UX-E": {
+      "expected": 10,
+      "missing": []
+    },
+    "UX-I": {
+      "expected": 10,
+      "missing": []
+    },
+    "UX-C": {
+      "expected": 20,
+      "missing": []
+    },
+    "UX-CMP": {
+      "expected": 12,
+      "missing": []
+    },
+    "UX2-AC": {
+      "expected": 9,
+      "missing": []
+    }
+  },
+  "token_contrast": [
+    {
+      "theme": "light",
+      "foreground": "text",
+      "background": "background",
+      "ratio": 14.09,
+      "threshold": 4.5,
+      "pass": true
+    },
+    {
+      "theme": "light",
+      "foreground": "text",
+      "background": "surface",
+      "ratio": 15.25,
+      "threshold": 4.5,
+      "pass": true
+    },
+    {
+      "theme": "light",
+      "foreground": "muted",
+      "background": "surface",
+      "ratio": 6.31,
+      "threshold": 4.5,
+      "pass": true
+    },
+    {
+      "theme": "light",
+      "foreground": "muted",
+      "background": "background",
+      "ratio": 5.83,
+      "threshold": 4.5,
+      "pass": true
+    },
+    {
+      "theme": "light",
+      "foreground": "accent",
+      "background": "surface",
+      "ratio": 7.87,
+      "threshold": 4.5,
+      "pass": true
+    },
+    {
+      "theme": "light",
+      "foreground": "onAccent",
+      "background": "accent",
+      "ratio": 7.87,
+      "threshold": 4.5,
+      "pass": true
+    },
+    {
+      "theme": "light",
+      "foreground": "errorText",
+      "background": "errorSurface",
+      "ratio": 5.97,
+      "threshold": 4.5,
+      "pass": true
+    },
+    {
+      "theme": "light",
+      "foreground": "warningText",
+      "background": "warningSurface",
+      "ratio": 5.8,
+      "threshold": 4.5,
+      "pass": true
+    },
+    {
+      "theme": "light",
+      "foreground": "fieldBorder",
+      "background": "surface",
+      "ratio": 4.49,
+      "threshold": 3,
+      "pass": true
+    },
+    {
+      "theme": "dark",
+      "foreground": "text",
+      "background": "background",
+      "ratio": 16.36,
+      "threshold": 4.5,
+      "pass": true
+    },
+    {
+      "theme": "dark",
+      "foreground": "text",
+      "background": "surface",
+      "ratio": 14.07,
+      "threshold": 4.5,
+      "pass": true
+    },
+    {
+      "theme": "dark",
+      "foreground": "muted",
+      "background": "surface",
+      "ratio": 7.63,
+      "threshold": 4.5,
+      "pass": true
+    },
+    {
+      "theme": "dark",
+      "foreground": "muted",
+      "background": "background",
+      "ratio": 8.87,
+      "threshold": 4.5,
+      "pass": true
+    },
+    {
+      "theme": "dark",
+      "foreground": "accent",
+      "background": "surface",
+      "ratio": 9.36,
+      "threshold": 4.5,
+      "pass": true
+    },
+    {
+      "theme": "dark",
+      "foreground": "onAccent",
+      "background": "accent",
+      "ratio": 7.32,
+      "threshold": 4.5,
+      "pass": true
+    },
+    {
+      "theme": "dark",
+      "foreground": "errorText",
+      "background": "errorSurface",
+      "ratio": 10.78,
+      "threshold": 4.5,
+      "pass": true
+    },
+    {
+      "theme": "dark",
+      "foreground": "warningText",
+      "background": "warningSurface",
+      "ratio": 9.33,
+      "threshold": 4.5,
+      "pass": true
+    },
+    {
+      "theme": "dark",
+      "foreground": "fieldBorder",
+      "background": "surface",
+      "ratio": 4.82,
+      "threshold": 3,
+      "pass": true
+    }
+  ],
+  "wireframes": [
+    {
+      "file": "w01-access.svg",
+      "dimensions": [
+        1100,
+        760
+      ],
+      "png_exists": true,
+      "has_title_and_desc": true,
+      "original_wordmark": true,
+      "sha256": "fd2aea8720d56d7a561e24fc8a3455311facc7ee537df9e549604187cbf0f433"
+    },
+    {
+      "file": "w02-accounts.svg",
+      "dimensions": [
+        1100,
+        800
+      ],
+      "png_exists": true,
+      "has_title_and_desc": true,
+      "original_wordmark": true,
+      "sha256": "4979298bbdc8c02fa09a53b61f7d0885329f1987a5d5a68b6059e64824186cd5"
+    },
+    {
+      "file": "w03-card.svg",
+      "dimensions": [
+        1100,
+        870
+      ],
+      "png_exists": true,
+      "has_title_and_desc": true,
+      "original_wordmark": true,
+      "sha256": "d2ed2616acd76e0e145d006c82e517a5987c76414549c398a5cd4b0b942aaf65"
+    },
+    {
+      "file": "w04-payment.svg",
+      "dimensions": [
+        1100,
+        820
+      ],
+      "png_exists": true,
+      "has_title_and_desc": true,
+      "original_wordmark": true,
+      "sha256": "4da01ec9998ffc3cb94dbf1ae4de01c1e18838a79ae51ea3cc469cd8b50b8614"
+    },
+    {
+      "file": "w05-review.svg",
+      "dimensions": [
+        1100,
+        800
+      ],
+      "png_exists": true,
+      "has_title_and_desc": true,
+      "original_wordmark": true,
+      "sha256": "8accf89a9221265c1591c5d15c21acc44599db6ebe6d58e4401f08baf78a7fd2"
+    },
+    {
+      "file": "w06-movements.svg",
+      "dimensions": [
+        1100,
+        800
+      ],
+      "png_exists": true,
+      "has_title_and_desc": true,
+      "original_wordmark": true,
+      "sha256": "020afb7d28b18c9ce0f0bce22c92c1f6ddae42b02cc4b462f53ad2095d61d644"
+    },
+    {
+      "file": "w07-mobile-card.svg",
+      "dimensions": [
+        390,
+        920
+      ],
+      "png_exists": true,
+      "has_title_and_desc": true,
+      "original_wordmark": true,
+      "sha256": "8aa82e456c253bd176e9f60c2037d7957b0d2bed65331e6de4dd94f98976e026"
+    },
+    {
+      "file": "w08-mobile-uncertain.svg",
+      "dimensions": [
+        390,
+        880
+      ],
+      "png_exists": true,
+      "has_title_and_desc": true,
+      "original_wordmark": true,
+      "sha256": "6179a75bb7fda55589cc455c455dd898abf1c913c46cde92d95f8d43f1585426"
+    },
+    {
+      "file": "w09-add-account.svg",
+      "dimensions": [
+        1100,
+        850
+      ],
+      "png_exists": true,
+      "has_title_and_desc": true,
+      "original_wordmark": true,
+      "sha256": "92ecfb73a454a5f5c45cf6ba6af66d0c97ed426ae25d99f5ae7b98dc5adaad49"
+    },
+    {
+      "file": "w10-add-card.svg",
+      "dimensions": [
+        1100,
+        860
+      ],
+      "png_exists": true,
+      "has_title_and_desc": true,
+      "original_wordmark": true,
+      "sha256": "803e504b1cb8b4cf5bdaf34b7e7eb054a6e58e10589d2478981f9dbc8f1a6801"
+    }
+  ],
+  "skills": {
+    "repo": "emilkowalski/skills",
+    "revision": "85e8e2363b713506e1d5b6e07a0eb2da66be1bc3",
+    "items": [
+      {
+        "name": "apple-design",
+        "installed": true,
+        "sha256": "77bb63b7043bb93aca2ff4ab040c249484eef35682bb6ff7163433c31d30adc7",
+        "matches_downloaded_revision": true
+      },
+      {
+        "name": "emil-design-eng",
+        "installed": true,
+        "sha256": "ffbe68e6007fb42cb8149f089b400a1ca007d59ba23e8948e2be4476f3175939",
+        "matches_downloaded_revision": true
+      }
+    ]
+  },
+  "figma": {
+    "file": "https://www.figma.com/design/tTqlU8S1gc4AvW9BdPOuI6",
+    "frames": 10,
+    "captured_and_inspected": 10,
+    "font_family": "Manrope",
+    "medium_corrected": 41,
+    "medium_pending": 66,
+    "layout_pending": [
+      {
+        "nodeId": "2:2",
+        "current": {
+          "x": 1300,
+          "y": 1100
+        },
+        "target": {
+          "x": 100,
+          "y": 1100
+        },
+        "reason": "W04 currently overlaps W05 on canvas; change X only"
+      }
+    ],
+    "limitation": "Starter MCP tool quota reached; final cleanup not verified",
+    "native_component_library": false,
+    "connected_prototype": false
+  },
+  "visual_review": {
+    "local_frames": 10,
+    "method": "Sharp render and view_image inspection; Figma frame.screenshot for imported versions",
+    "local_corrections": [
+      "W01 heading overlap",
+      "W10 next-step information styling"
+    ],
+    "source_bounds": "Generator asserts text within canvas; no dynamic layout behavior proven"
+  },
+  "not_tested": [
+    "User research sessions",
+    "Keyboard and screen reader",
+    "Responsive browser behavior",
+    "Financial calculations or persistence",
+    "Auth and RLS",
+    "Final Figma layout after quota limit"
+  ],
+  "scope": "Documentation and design only; no frontend or product rules implemented"
+}

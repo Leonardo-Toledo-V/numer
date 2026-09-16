@@ -1,0 +1,128 @@
+{
+  "edition": "1.0",
+  "status": "original approved wordmark restored under BR-C32; remaining brand criteria approved BR-A07",
+  "date": "2026-09-15",
+  "original_assets_byte_identical": [
+    "wordmark/numer-wordmark-petroleum.svg",
+    "symbol/numer-symbol-petroleum.svg",
+    "icon/numer-icon-32.png",
+    "icon/numer-icon.svg",
+    "icon/numer-icon-48.png",
+    "icon/numer-icon-64.png",
+    "icon/numer-icon-256.png",
+    "icon/numer-icon-16.png",
+    "favicon/favicon.ico"
+  ],
+  "font_files_byte_identical": true,
+  "variant_alpha_identical": true,
+  "svg_xml_valid": true,
+  "local_document_links_valid": true,
+  "pdf_pages": 7,
+  "pdf_text_checked": true,
+  "pdf_embedded_fonts": [
+    "/AAAAAA+Manrope-Medium",
+    "/AAAAAA+Manrope-Regular"
+  ],
+  "pdf_visual_review": "All seven final rendered pages inspected; no clipping or overlap observed.",
+  "size_review": {
+    "browser": "153.0.8010.48",
+    "wordmark_visible_bounds": {
+      "x": 6.949999809265137,
+      "y": 16.5,
+      "width": 289.3999938964844,
+      "height": 57
+    },
+    "assets_rendered": [
+      "wordmark/numer-wordmark-petroleum.svg",
+      "wordmark/numer-wordmark-porcelain.svg",
+      "wordmark/numer-wordmark-graphite.svg",
+      "symbol/numer-symbol-petroleum.svg",
+      "symbol/numer-symbol-porcelain.svg",
+      "symbol/numer-symbol-graphite.svg",
+      "icon/numer-icon.svg"
+    ],
+    "wordmark_widths": [
+      64,
+      80,
+      96,
+      128
+    ],
+    "icon_sizes": [
+      16,
+      24,
+      32,
+      48
+    ],
+    "deviceScaleFactor": 1
+  },
+  "png_dimensions": {
+    "numer-wordmark-preview.png": [
+      960,
+      320
+    ],
+    "symbol/numer-symbol-porcelain.png": [
+      400,
+      400
+    ],
+    "symbol/numer-symbol-petroleum.png": [
+      400,
+      400
+    ],
+    "symbol/numer-symbol-graphite.png": [
+      400,
+      400
+    ],
+    "icon/numer-icon-32.png": [
+      32,
+      32
+    ],
+    "icon/numer-icon-48.png": [
+      48,
+      48
+    ],
+    "icon/numer-icon-64.png": [
+      64,
+      64
+    ],
+    "icon/numer-icon-256.png": [
+      256,
+      256
+    ],
+    "icon/numer-icon-16.png": [
+      16,
+      16
+    ],
+    "wordmark/numer-wordmark-porcelain.png": [
+      1252,
+      280
+    ],
+    "wordmark/numer-wordmark-graphite.png": [
+      1252,
+      280
+    ],
+    "wordmark/numer-wordmark-petroleum.png": [
+      1252,
+      280
+    ]
+  },
+  "ico_sizes": [
+    [
+      16,
+      16
+    ],
+    [
+      32,
+      32
+    ],
+    [
+      48,
+      48
+    ]
+  ],
+  "limitations": [
+    "No print validation",
+    "No full accessibility audit",
+    "No commercial name clearance",
+    "No app or security implementation"
+  ]
+}

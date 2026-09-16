@@ -1,0 +1,19 @@
+{
+  "canvas": 64,
+  "glyphHeight": 51.2,
+  "heightPercent": 80,
+  "glyphWidth": 44.82885482416591,
+  "widthPercent": 70.04508566275923,
+  "marginTop": 6.4,
+  "marginBottom": 6.4,
+  "marginLeft": 9.585572587917046,
+  "marginRight": 9.585572587917046,
+  "scale": 0.9233543733092876,
+  "translation": {
+    "x": 3.1682596934174967,
+    "y": -8.881514878268707
+  },
+  "gapStandard": 3,
+  "gap16px": 6,
+  "note": "80% means visible glyph height, with uniform scaling. The small variant widens only the diagonal opening."
+}

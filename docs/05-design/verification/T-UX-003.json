@@ -1,0 +1,151 @@
+{
+  "task": "T-UX-003",
+  "date": "2026-09-16",
+  "contract": "UX-DC01 v0.3",
+  "state": "sidebar favorable; typography, alignment and profile menu revision pending user review",
+  "links": {
+    "checked": 57,
+    "broken": []
+  },
+  "assets": [
+    {
+      "file": "c01-accounts.svg",
+      "width": 1280,
+      "height": 800,
+      "text_count": 48,
+      "text_bounds_pass": true,
+      "png_exists": true,
+      "sha256": "40aa05844aa99e31fe91cc69156f6124db60dbb3b8085cc84db6f1fc2786616b"
+    },
+    {
+      "file": "c02-payment-dialog.svg",
+      "width": 1280,
+      "height": 800,
+      "text_count": 61,
+      "text_bounds_pass": true,
+      "png_exists": true,
+      "sha256": "0f0d9bd2683366e4bbc754e45fea3113e0144e9898fb5e8b28efe781a60c0faa"
+    },
+    {
+      "file": "c03-payment-mobile.svg",
+      "width": 390,
+      "height": 760,
+      "text_count": 14,
+      "text_bounds_pass": true,
+      "png_exists": true,
+      "sha256": "1a08d0751b177cbffb9cb8716d7fb3e13d5800b534402dc0240e1adae708e32f"
+    },
+    {
+      "file": "c04-profile-menu.svg",
+      "width": 1280,
+      "height": 800,
+      "text_count": 51,
+      "text_bounds_pass": true,
+      "png_exists": true,
+      "sha256": "3c079e1e5587478e7e8043fa080d047202234e2bc8e2a0947fa2b289f362a792"
+    }
+  ],
+  "contrast": [
+    {
+      "name": "body",
+      "ratio": 15.25,
+      "threshold": 4.5,
+      "pass": true
+    },
+    {
+      "name": "muted",
+      "ratio": 6.31,
+      "threshold": 4.5,
+      "pass": true
+    },
+    {
+      "name": "muted on background",
+      "ratio": 5.83,
+      "threshold": 4.5,
+      "pass": true
+    },
+    {
+      "name": "primary",
+      "ratio": 7.87,
+      "threshold": 4.5,
+      "pass": true
+    },
+    {
+      "name": "link",
+      "ratio": 7.87,
+      "threshold": 4.5,
+      "pass": true
+    },
+    {
+      "name": "field border",
+      "ratio": 3.26,
+      "threshold": 3,
+      "pass": true
+    },
+    {
+      "name": "sidebar normal",
+      "ratio": 6.56,
+      "threshold": 4.5,
+      "pass": true
+    },
+    {
+      "name": "sidebar selected",
+      "ratio": 7.6,
+      "threshold": 4.5,
+      "pass": true
+    }
+  ],
+  "visual_inspection": {
+    "method": "Sharp SVG-to-PNG; view_image desktop accounts, desktop dialog, mobile form and updated overview",
+    "frames": 4,
+    "corrections": [
+      "Dialog field spacing refined",
+      "Metadata increased from 11 to 12 px for readability"
+    ],
+    "revision": "C01 represented in C02/C04; updated dialog, mobile and open menu visually inspected"
+  },
+  "role_limits": {
+    "frontend_modified": false,
+    "figma_used": false,
+    "application_initialized": false,
+    "modification_scope": "docs/05-design only"
+  },
+  "limitations": [
+    "Static design only; no interactions tested",
+    "No user acceptance or usability results",
+    "No real keyboard, assistive technology, reflow or mobile keyboard tests",
+    "No financial rules implemented",
+    "Global tokens remain proposed"
+  ],
+  "criteria": {
+    "UX3-AC01": "documented or artifact inspected; acceptance not implied",
+    "UX3-AC02": "documented or artifact inspected; acceptance not implied",
+    "UX3-AC03": "documented or artifact inspected; acceptance not implied",
+    "UX3-AC04": "documented or artifact inspected; acceptance not implied",
+    "UX3-AC05": "documented or artifact inspected; acceptance not implied",
+    "UX3-AC06": "documented or artifact inspected; acceptance not implied"
+  },
+  "revision_checks": {
+    "sidebar": {
+      "x": 0,
+      "y": 0,
+      "width": 176,
+      "height": 800,
+      "outer_radius": 0,
+      "full_height": true
+    },
+    "content_background": "#FFFFFF",
+    "navigation_text_within_sidebar": true,
+    "inner_selection": "38 px height / 8 px radius retained",
+    "frontend_modified": false,
+    "figma_used": false,
+    "title_px": 18,
+    "body_px": 13,
+    "auxiliary_px": 12,
+    "primary_row_baselines_aligned": true,
+    "header_name_column_aligned": true,
+    "privacy_settings_only_in_profile_menu": true,
+    "profile_example": "synthetic Alex",
+    "menu_open_state": "C04"
+  }
+}

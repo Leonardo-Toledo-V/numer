@@ -1,0 +1,13 @@
+{
+  "canvas": 100,
+  "visibleBounds": {
+    "x": 20,
+    "y": 25,
+    "width": 60,
+    "height": 50
+  },
+  "widthPercent": 60,
+  "heightPercent": 50,
+  "design": "Single continuous outline; asymmetrical shoulder, variable stroke and curved outward terminal. No diagonal separation.",
+  "status": "proposed"
+}

@@ -1,0 +1,876 @@
+[
+  {
+    "file": "c01-accounts.svg",
+    "title": "C01 · Cuentas y tarjetas / composición compacta",
+    "width": 1280,
+    "height": 800,
+    "text_count": 47,
+    "text_bounds": [
+      {
+        "text": "TU ESPACIO",
+        "left": 24,
+        "right": 82.0,
+        "baseline": 126,
+        "size": 10
+      },
+      {
+        "text": "Resumen",
+        "left": 56,
+        "right": 115.0,
+        "baseline": 173,
+        "size": 13
+      },
+      {
+        "text": "Movimientos",
+        "left": 56,
+        "right": 136.0,
+        "baseline": 219,
+        "size": 13
+      },
+      {
+        "text": "Cuentas",
+        "left": 56,
+        "right": 111.0,
+        "baseline": 265,
+        "size": 13
+      },
+      {
+        "text": "Ahorro",
+        "left": 56,
+        "right": 98.0,
+        "baseline": 311,
+        "size": 13
+      },
+      {
+        "text": "Ocultar importes",
+        "left": 56,
+        "right": 147.0,
+        "baseline": 662,
+        "size": 12
+      },
+      {
+        "text": "Ajustes y sesión",
+        "left": 56,
+        "right": 142.0,
+        "baseline": 727,
+        "size": 12
+      },
+      {
+        "text": "Tu espacio",
+        "left": 208,
+        "right": 266.0,
+        "baseline": 46,
+        "size": 12
+      },
+      {
+        "text": "/",
+        "left": 277,
+        "right": 282.0,
+        "baseline": 46,
+        "size": 12
+      },
+      {
+        "text": "Cuentas",
+        "left": 292,
+        "right": 339.0,
+        "baseline": 46,
+        "size": 12
+      },
+      {
+        "text": "MXN · Saldos registrados",
+        "left": 1110.0,
+        "right": 1244.0,
+        "baseline": 46,
+        "size": 12
+      },
+      {
+        "text": "Cuentas y tarjetas",
+        "left": 208,
+        "right": 404.0,
+        "baseline": 105,
+        "size": 22
+      },
+      {
+        "text": "Tu dinero y tu crédito, en su lugar.",
+        "left": 208,
+        "right": 420.0,
+        "baseline": 131,
+        "size": 13
+      },
+      {
+        "text": "Añadir",
+        "left": 1161.5,
+        "right": 1202.5,
+        "baseline": 110.0,
+        "size": 13
+      },
+      {
+        "text": "Tu dinero",
+        "left": 208,
+        "right": 280.0,
+        "baseline": 195,
+        "size": 15
+      },
+      {
+        "text": "2 cuentas",
+        "left": 288,
+        "right": 342.0,
+        "baseline": 195,
+        "size": 12
+      },
+      {
+        "text": "El ahorro está incluido en estas cuentas.",
+        "left": 1027.0,
+        "right": 1244.0,
+        "baseline": 195,
+        "size": 12
+      },
+      {
+        "text": "Cuenta",
+        "left": 232,
+        "right": 277.0,
+        "baseline": 239,
+        "size": 12
+      },
+      {
+        "text": "Fecha de referencia",
+        "left": 730,
+        "right": 847.0,
+        "baseline": 239,
+        "size": 12
+      },
+      {
+        "text": "Saldo registrado",
+        "left": 1017.0,
+        "right": 1114.0,
+        "baseline": 239,
+        "size": 12
+      },
+      {
+        "text": "Cuenta diaria",
+        "left": 276,
+        "right": 362.0,
+        "baseline": 279,
+        "size": 13
+      },
+      {
+        "text": "Banco A · Dinero en banco",
+        "left": 276,
+        "right": 416.0,
+        "baseline": 298,
+        "size": 12
+      },
+      {
+        "text": "16 sep 2026",
+        "left": 730,
+        "right": 795.0,
+        "baseline": 288,
+        "size": 12
+      },
+      {
+        "text": "$8,000.00",
+        "left": 1045.0,
+        "right": 1114.0,
+        "baseline": 288,
+        "size": 14
+      },
+      {
+        "text": "Ahorro",
+        "left": 276,
+        "right": 321.0,
+        "baseline": 344,
+        "size": 13
+      },
+      {
+        "text": "Banco A · Cuenta de ahorro",
+        "left": 276,
+        "right": 422.0,
+        "baseline": 363,
+        "size": 12
+      },
+      {
+        "text": "16 sep 2026",
+        "left": 730,
+        "right": 795.0,
+        "baseline": 353,
+        "size": 12
+      },
+      {
+        "text": "$2,000.00",
+        "left": 1045.0,
+        "right": 1114.0,
+        "baseline": 353,
+        "size": 14
+      },
+      {
+        "text": "Tus tarjetas",
+        "left": 208,
+        "right": 299.0,
+        "baseline": 431,
+        "size": 15
+      },
+      {
+        "text": "2 tarjetas",
+        "left": 307,
+        "right": 358.0,
+        "baseline": 431,
+        "size": 12
+      },
+      {
+        "text": "Tarjeta",
+        "left": 232,
+        "right": 277.0,
+        "baseline": 477,
+        "size": 12
+      },
+      {
+        "text": "Deuda registrada",
+        "left": 567.0,
+        "right": 672.0,
+        "baseline": 477,
+        "size": 12
+      },
+      {
+        "text": "Crédito disponible",
+        "left": 755.0,
+        "right": 860.0,
+        "baseline": 477,
+        "size": 12
+      },
+      {
+        "text": "Compras",
+        "left": 276,
+        "right": 334.0,
+        "baseline": 521,
+        "size": 13
+      },
+      {
+        "text": "Banco A · Crédito",
+        "left": 276,
+        "right": 366.0,
+        "baseline": 540,
+        "size": 12
+      },
+      {
+        "text": "$6,000.00",
+        "left": 602.0,
+        "right": 672.0,
+        "baseline": 531,
+        "size": 14
+      },
+      {
+        "text": "$14,000.00",
+        "left": 784.0,
+        "right": 860.0,
+        "baseline": 531,
+        "size": 14
+      },
+      {
+        "text": "Detalle",
+        "left": 958,
+        "right": 1000.0,
+        "baseline": 531,
+        "size": 12
+      },
+      {
+        "text": "Registrar pago",
+        "left": 1084.5,
+        "right": 1179.5,
+        "baseline": 531.0,
+        "size": 13
+      },
+      {
+        "text": "Viajes",
+        "left": 276,
+        "right": 313.0,
+        "baseline": 591,
+        "size": 13
+      },
+      {
+        "text": "Banco A · Crédito",
+        "left": 276,
+        "right": 366.0,
+        "baseline": 610,
+        "size": 12
+      },
+      {
+        "text": "Sin registrar",
+        "left": 604.0,
+        "right": 672.0,
+        "baseline": 601,
+        "size": 12
+      },
+      {
+        "text": "Sin registrar",
+        "left": 792.0,
+        "right": 860.0,
+        "baseline": 601,
+        "size": 12
+      },
+      {
+        "text": "Detalle",
+        "left": 958,
+        "right": 1000.0,
+        "baseline": 601,
+        "size": 12
+      },
+      {
+        "text": "Registrar pago",
+        "left": 1084.5,
+        "right": 1179.5,
+        "baseline": 601.0,
+        "size": 13
+      },
+      {
+        "text": "El crédito disponible no forma parte del dinero de tus cuentas.",
+        "left": 208,
+        "right": 537.0,
+        "baseline": 662,
+        "size": 12
+      },
+      {
+        "text": "C01 · Propuesta de diseño · Datos sintéticos · Sin implementación",
+        "left": 208,
+        "right": 501.0,
+        "baseline": 760,
+        "size": 10
+      }
+    ]
+  },
+  {
+    "file": "c02-payment-dialog.svg",
+    "title": "C02 · Registro de pago / diálogo compacto",
+    "width": 1280,
+    "height": 800,
+    "text_count": 60,
+    "text_bounds": [
+      {
+        "text": "TU ESPACIO",
+        "left": 24,
+        "right": 82.0,
+        "baseline": 126,
+        "size": 10
+      },
+      {
+        "text": "Resumen",
+        "left": 56,
+        "right": 115.0,
+        "baseline": 173,
+        "size": 13
+      },
+      {
+        "text": "Movimientos",
+        "left": 56,
+        "right": 136.0,
+        "baseline": 219,
+        "size": 13
+      },
+      {
+        "text": "Cuentas",
+        "left": 56,
+        "right": 111.0,
+        "baseline": 265,
+        "size": 13
+      },
+      {
+        "text": "Ahorro",
+        "left": 56,
+        "right": 98.0,
+        "baseline": 311,
+        "size": 13
+      },
+      {
+        "text": "Ocultar importes",
+        "left": 56,
+        "right": 147.0,
+        "baseline": 662,
+        "size": 12
+      },
+      {
+        "text": "Ajustes y sesión",
+        "left": 56,
+        "right": 142.0,
+        "baseline": 727,
+        "size": 12
+      },
+      {
+        "text": "Tu espacio",
+        "left": 208,
+        "right": 266.0,
+        "baseline": 46,
+        "size": 12
+      },
+      {
+        "text": "/",
+        "left": 277,
+        "right": 282.0,
+        "baseline": 46,
+        "size": 12
+      },
+      {
+        "text": "Cuentas",
+        "left": 292,
+        "right": 339.0,
+        "baseline": 46,
+        "size": 12
+      },
+      {
+        "text": "MXN · Saldos registrados",
+        "left": 1110.0,
+        "right": 1244.0,
+        "baseline": 46,
+        "size": 12
+      },
+      {
+        "text": "Cuentas y tarjetas",
+        "left": 208,
+        "right": 404.0,
+        "baseline": 105,
+        "size": 22
+      },
+      {
+        "text": "Tu dinero y tu crédito, en su lugar.",
+        "left": 208,
+        "right": 420.0,
+        "baseline": 131,
+        "size": 13
+      },
+      {
+        "text": "Añadir",
+        "left": 1161.5,
+        "right": 1202.5,
+        "baseline": 110.0,
+        "size": 13
+      },
+      {
+        "text": "Tu dinero",
+        "left": 208,
+        "right": 280.0,
+        "baseline": 195,
+        "size": 15
+      },
+      {
+        "text": "2 cuentas",
+        "left": 288,
+        "right": 342.0,
+        "baseline": 195,
+        "size": 12
+      },
+      {
+        "text": "El ahorro está incluido en estas cuentas.",
+        "left": 1027.0,
+        "right": 1244.0,
+        "baseline": 195,
+        "size": 12
+      },
+      {
+        "text": "Cuenta",
+        "left": 232,
+        "right": 277.0,
+        "baseline": 239,
+        "size": 12
+      },
+      {
+        "text": "Fecha de referencia",
+        "left": 730,
+        "right": 847.0,
+        "baseline": 239,
+        "size": 12
+      },
+      {
+        "text": "Saldo registrado",
+        "left": 1017.0,
+        "right": 1114.0,
+        "baseline": 239,
+        "size": 12
+      },
+      {
+        "text": "Cuenta diaria",
+        "left": 276,
+        "right": 362.0,
+        "baseline": 279,
+        "size": 13
+      },
+      {
+        "text": "Banco A · Dinero en banco",
+        "left": 276,
+        "right": 416.0,
+        "baseline": 298,
+        "size": 12
+      },
+      {
+        "text": "16 sep 2026",
+        "left": 730,
+        "right": 795.0,
+        "baseline": 288,
+        "size": 12
+      },
+      {
+        "text": "$8,000.00",
+        "left": 1045.0,
+        "right": 1114.0,
+        "baseline": 288,
+        "size": 14
+      },
+      {
+        "text": "Ahorro",
+        "left": 276,
+        "right": 321.0,
+        "baseline": 344,
+        "size": 13
+      },
+      {
+        "text": "Banco A · Cuenta de ahorro",
+        "left": 276,
+        "right": 422.0,
+        "baseline": 363,
+        "size": 12
+      },
+      {
+        "text": "16 sep 2026",
+        "left": 730,
+        "right": 795.0,
+        "baseline": 353,
+        "size": 12
+      },
+      {
+        "text": "$2,000.00",
+        "left": 1045.0,
+        "right": 1114.0,
+        "baseline": 353,
+        "size": 14
+      },
+      {
+        "text": "Tus tarjetas",
+        "left": 208,
+        "right": 299.0,
+        "baseline": 431,
+        "size": 15
+      },
+      {
+        "text": "2 tarjetas",
+        "left": 307,
+        "right": 358.0,
+        "baseline": 431,
+        "size": 12
+      },
+      {
+        "text": "Tarjeta",
+        "left": 232,
+        "right": 277.0,
+        "baseline": 477,
+        "size": 12
+      },
+      {
+        "text": "Deuda registrada",
+        "left": 567.0,
+        "right": 672.0,
+        "baseline": 477,
+        "size": 12
+      },
+      {
+        "text": "Crédito disponible",
+        "left": 755.0,
+        "right": 860.0,
+        "baseline": 477,
+        "size": 12
+      },
+      {
+        "text": "Compras",
+        "left": 276,
+        "right": 334.0,
+        "baseline": 521,
+        "size": 13
+      },
+      {
+        "text": "Banco A · Crédito",
+        "left": 276,
+        "right": 366.0,
+        "baseline": 540,
+        "size": 12
+      },
+      {
+        "text": "$6,000.00",
+        "left": 602.0,
+        "right": 672.0,
+        "baseline": 531,
+        "size": 14
+      },
+      {
+        "text": "$14,000.00",
+        "left": 784.0,
+        "right": 860.0,
+        "baseline": 531,
+        "size": 14
+      },
+      {
+        "text": "Detalle",
+        "left": 958,
+        "right": 1000.0,
+        "baseline": 531,
+        "size": 12
+      },
+      {
+        "text": "Registrar pago",
+        "left": 1084.5,
+        "right": 1179.5,
+        "baseline": 531.0,
+        "size": 13
+      },
+      {
+        "text": "Viajes",
+        "left": 276,
+        "right": 313.0,
+        "baseline": 591,
+        "size": 13
+      },
+      {
+        "text": "Banco A · Crédito",
+        "left": 276,
+        "right": 366.0,
+        "baseline": 610,
+        "size": 12
+      },
+      {
+        "text": "Sin registrar",
+        "left": 604.0,
+        "right": 672.0,
+        "baseline": 601,
+        "size": 12
+      },
+      {
+        "text": "Sin registrar",
+        "left": 792.0,
+        "right": 860.0,
+        "baseline": 601,
+        "size": 12
+      },
+      {
+        "text": "Detalle",
+        "left": 958,
+        "right": 1000.0,
+        "baseline": 601,
+        "size": 12
+      },
+      {
+        "text": "Registrar pago",
+        "left": 1084.5,
+        "right": 1179.5,
+        "baseline": 601.0,
+        "size": 13
+      },
+      {
+        "text": "El crédito disponible no forma parte del dinero de tus cuentas.",
+        "left": 208,
+        "right": 537.0,
+        "baseline": 662,
+        "size": 12
+      },
+      {
+        "text": "C01 · Propuesta de diseño · Datos sintéticos · Sin implementación",
+        "left": 208,
+        "right": 501.0,
+        "baseline": 760,
+        "size": 10
+      },
+      {
+        "text": "Registrar pago",
+        "left": 434,
+        "right": 568.0,
+        "baseline": 220,
+        "size": 19
+      },
+      {
+        "text": "Banco A · Compras",
+        "left": 434,
+        "right": 550.0,
+        "baseline": 247,
+        "size": 13
+      },
+      {
+        "text": "Cuenta de origen",
+        "left": 434,
+        "right": 536.0,
+        "baseline": 303,
+        "size": 12
+      },
+      {
+        "text": "Cuenta diaria · Banco A",
+        "left": 446,
+        "right": 596.0,
+        "baseline": 335.0,
+        "size": 14
+      },
+      {
+        "text": "Importe · MXN",
+        "left": 434,
+        "right": 512.0,
+        "baseline": 372,
+        "size": 12
+      },
+      {
+        "text": "1,500.00",
+        "left": 446,
+        "right": 503.0,
+        "baseline": 404.0,
+        "size": 14
+      },
+      {
+        "text": "Fecha del pago",
+        "left": 648,
+        "right": 736.0,
+        "baseline": 372,
+        "size": 12
+      },
+      {
+        "text": "16/09/2026",
+        "left": 660,
+        "right": 739.0,
+        "baseline": 404.0,
+        "size": 14
+      },
+      {
+        "text": "Concepto",
+        "left": 434,
+        "right": 491.0,
+        "baseline": 441,
+        "size": 12
+      },
+      {
+        "text": "Pago de tarjeta",
+        "left": 446,
+        "right": 550.0,
+        "baseline": 473.0,
+        "size": 14
+      },
+      {
+        "text": "Registrar este dato no envía dinero al banco.",
+        "left": 434,
+        "right": 671.0,
+        "baseline": 509,
+        "size": 12
+      },
+      {
+        "text": "Cancelar",
+        "left": 620.0,
+        "right": 678.0,
+        "baseline": 580.0,
+        "size": 13
+      },
+      {
+        "text": "Revisar pago",
+        "left": 735.0,
+        "right": 818.0,
+        "baseline": 580.0,
+        "size": 13
+      }
+    ]
+  },
+  {
+    "file": "c03-payment-mobile.svg",
+    "title": "C03 · Registro de pago / adaptación móvil",
+    "width": 390,
+    "height": 760,
+    "text_count": 14,
+    "text_bounds": [
+      {
+        "text": "Registrar pago",
+        "left": 20,
+        "right": 154.0,
+        "baseline": 43,
+        "size": 19
+      },
+      {
+        "text": "Banco A · Compras",
+        "left": 20,
+        "right": 136.0,
+        "baseline": 71,
+        "size": 13
+      },
+      {
+        "text": "Cuenta de origen",
+        "left": 20,
+        "right": 122.0,
+        "baseline": 130,
+        "size": 12
+      },
+      {
+        "text": "Cuenta diaria · Banco A",
+        "left": 32,
+        "right": 198.0,
+        "baseline": 166.0,
+        "size": 16
+      },
+      {
+        "text": "Importe · MXN",
+        "left": 20,
+        "right": 98.0,
+        "baseline": 220,
+        "size": 12
+      },
+      {
+        "text": "1,500.00",
+        "left": 32,
+        "right": 92.0,
+        "baseline": 256.0,
+        "size": 16
+      },
+      {
+        "text": "Fecha del pago",
+        "left": 20,
+        "right": 108.0,
+        "baseline": 310,
+        "size": 12
+      },
+      {
+        "text": "16/09/2026",
+        "left": 32,
+        "right": 116.0,
+        "baseline": 346.0,
+        "size": 16
+      },
+      {
+        "text": "Concepto",
+        "left": 20,
+        "right": 77.0,
+        "baseline": 400,
+        "size": 12
+      },
+      {
+        "text": "Pago de tarjeta",
+        "left": 32,
+        "right": 146.0,
+        "baseline": 436.0,
+        "size": 16
+      },
+      {
+        "text": "Registrar este dato no envía dinero al banco.",
+        "left": 20,
+        "right": 257.0,
+        "baseline": 492,
+        "size": 12
+      },
+      {
+        "text": "Cancelar",
+        "left": 44.0,
+        "right": 102.0,
+        "baseline": 573.0,
+        "size": 13
+      },
+      {
+        "text": "Revisar pago",
+        "left": 212.5,
+        "right": 295.5,
+        "baseline": 573.0,
+        "size": 13
+      },
+      {
+        "text": "C03 · Propuesta · Móvil conserva blancos táctiles.",
+        "left": 20,
+        "right": 245.0,
+        "baseline": 722,
+        "size": 10
+      }
+    ]
+  }
+]

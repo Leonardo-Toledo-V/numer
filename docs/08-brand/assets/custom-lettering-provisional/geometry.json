@@ -1,0 +1,42 @@
+{
+  "status": "provisional",
+  "browser": "153.0.8010.48",
+  "letters": [
+    {
+      "letter": "n",
+      "x": 8,
+      "y": 12,
+      "width": 60,
+      "height": 50
+    },
+    {
+      "letter": "u",
+      "x": 8,
+      "y": 17,
+      "width": 60,
+      "height": 45
+    },
+    {
+      "letter": "m",
+      "x": 8,
+      "y": 12,
+      "width": 93,
+      "height": 50
+    },
+    {
+      "letter": "e",
+      "x": 8,
+      "y": 12,
+      "width": 56,
+      "height": 50
+    },
+    {
+      "letter": "r",
+      "x": 8,
+      "y": 12,
+      "width": 46,
+      "height": 44
+    }
+  ],
+  "nMatchesApproved": true
+}

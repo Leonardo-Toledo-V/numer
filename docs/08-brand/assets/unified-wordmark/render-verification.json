@@ -1,0 +1,31 @@
+{
+  "browser": "153.0.8010.48",
+  "wordmark_visible_bounds": {
+    "x": 6.949999809265137,
+    "y": 16.5,
+    "width": 309.25,
+    "height": 57
+  },
+  "assets_rendered": [
+    "wordmark/numer-wordmark-petroleum.svg",
+    "wordmark/numer-wordmark-porcelain.svg",
+    "wordmark/numer-wordmark-graphite.svg",
+    "symbol/numer-symbol-petroleum.svg",
+    "symbol/numer-symbol-porcelain.svg",
+    "symbol/numer-symbol-graphite.svg",
+    "icon/numer-icon.svg"
+  ],
+  "wordmark_widths": [
+    64,
+    80,
+    96,
+    128
+  ],
+  "icon_sizes": [
+    16,
+    24,
+    32,
+    48
+  ],
+  "deviceScaleFactor": 1
+}

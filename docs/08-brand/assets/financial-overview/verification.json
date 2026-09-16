@@ -1,0 +1,70 @@
+{
+  "browser": "153.0.8010.36",
+  "desktop": {
+    "width": 1024,
+    "height": 1135.125,
+    "overflow": false,
+    "font": true,
+    "rows": 5
+  },
+  "mobile": {
+    "width": 360,
+    "height": 1819.8125,
+    "overflow": false,
+    "font": true,
+    "rows": 5
+  },
+  "narrow": {
+    "width": 320,
+    "height": 1836.3125,
+    "overflow": false,
+    "font": true,
+    "rows": 5
+  },
+  "theme": {
+    "scheme": "dark",
+    "background": "rgb(18, 24, 25)",
+    "button": "Modo claro"
+  },
+  "transferRows": 1,
+  "opened": true,
+  "transferDetail": "Detalle del movimiento\nCerrar\n\nFondo de emergencia\n\n$2,000.00\nTipo\nTransferencia\nFecha\n12 de septiembre de 2026\nCuenta\nCuenta diaria → Ahorro\nCategoría\nEntre tus cuentas\nEfecto total\nNo cambia el saldo total",
+  "debtDetail": "Detalle del movimiento\nCerrar\n\nPago de tarjeta\n\n−$300.00\nTipo\nPago de deuda\nFecha\n10 de septiembre de 2026\nCuenta\nCuenta diaria → Tarjeta principal\nCategoría\nReducción de deuda\nTratamiento\nNo se cuenta como gasto nuevo",
+  "escapeClosed": true,
+  "privacy": {
+    "allMasked": true,
+    "chartHidden": true,
+    "transactionMasked": true
+  },
+  "contrast": [
+    {
+      "name": "light body",
+      "ratio": 15.247437372322391
+    },
+    {
+      "name": "light muted",
+      "ratio": 6.3050248898284815
+    },
+    {
+      "name": "light accent on soft",
+      "ratio": 6.329692610494429
+    },
+    {
+      "name": "dark body",
+      "ratio": 14.074224854432043
+    },
+    {
+      "name": "dark muted",
+      "ratio": 7.631786561256308
+    },
+    {
+      "name": "dark muted on soft",
+      "ratio": 5.549323839838053
+    },
+    {
+      "name": "light muted on soft",
+      "ratio": 5.073461301584107
+    }
+  ],
+  "errors": []
+}
