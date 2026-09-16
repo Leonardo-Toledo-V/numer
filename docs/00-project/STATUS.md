@@ -44,4 +44,4 @@ Comenzar por T-001 con [PRD](../01-product/PRD.md). Priorizar tipo de producto/u
 
 ## Preparación de GitHub · 2026-09-16
 
-[T-008](tasks/T-008-github.md): Git inicializado en `main` y remoto configurado; exclusiones y limpieza de metadatos personales preparadas. Publicación pendiente de verificar. Consulta el [handoff](handoffs/T-008-github.md) y la [política de archivos](../07-deployment/GIT_HYGIENE.md). No cambia el estado de implementación del producto.
+[T-008](tasks/T-008-github.md): Git inicializado en `main` y remoto configurado; exclusiones y limpieza de metadatos personales aplicadas. Publicación completada: 438 archivos, commit inicial verificado contra GitHub. Consulta el [handoff](handoffs/T-008-github.md) y la [política de archivos](../07-deployment/GIT_HYGIENE.md). No cambia el estado de implementación del producto.

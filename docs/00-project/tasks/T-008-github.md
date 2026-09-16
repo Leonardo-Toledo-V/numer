@@ -1,6 +1,6 @@
 # T-008 · Preparar y publicar el repositorio GitHub
 
-- Estado: en curso; preparación local terminada, publicación pendiente de verificar.
+- Estado: terminada; publicación y coincidencia de commit verificadas.
 - Responsable: orchestrator, mantenimiento de Git; destinatario: usuario.
 - Objetivo: subir el proyecto a `Leonardo-Toledo-V/numer` omitiendo información privada y artefactos locales innecesarios.
 - Especificación: mantenimiento de repositorio sin comportamiento nuevo de producto; no requiere SPEC funcional.
@@ -14,3 +14,5 @@
 - Validación: reglas de ignore, revisión de archivos, patrones de secretos, sintaxis de herramientas modificadas y comprobación de referencias Git.
 - Decisiones: conservar los entregables útiles, omitir ZIP duplicados y copia local de hosting; usar noreply local.
 - Handoff: [T-008](../handoffs/T-008-github.md).
+
+Evidencia AC-03: `git push -u origin main` completado y `git ls-remote origin refs/heads/main` devolvió `40d8f3a4b50bba2fb35ccbe5178d320db3a5b2b7`, igual al commit inicial local. Estado limpio tras la publicación. El cierre documental se registra en un commit posterior.
